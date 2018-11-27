@@ -1,0 +1,6 @@
+[submodule "provisioners/modules/stdlib"]
+	path = provisioners/modules/stdlib
+	url = https://github.com/puppetlabs/puppetlabs-stdlib.git
+[submodule "provisioners/modules/lvm"]
+	path = provisioners/modules/lvm
+	url = https://github.com/puppetlabs/puppetlabs-lvm.git
